@@ -1,0 +1,6 @@
+stringInput = input('Input a word: ')
+s_temp = stringInput.split()
+s_temp.reverse()
+print(s_temp)
+result = ' '.join(s_temp)
+print(result)
