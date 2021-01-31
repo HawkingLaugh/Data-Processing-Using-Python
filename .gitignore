@@ -2,3 +2,5 @@ Temp.py
 .gitignore
 *.txt
 .vscode/
+*.xlsx
+*.csv
